@@ -1,0 +1,41 @@
+html, body {
+    max-width: 900px;
+    margin: auto;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: #FFA000;
+    text-align: center;
+    padding: 30px;
+}
+
+header img {
+    width: 100px;
+    border-radius: 50px;
+}
+
+header h1 {
+    color: #FFF;
+}
+
+#content {
+    padding: 0 20px;
+}
+
+#content a {
+    color: #FFC107;
+    font-size: 30px;
+}
+
+footer {
+    left: auto;
+    right: auto;
+    position: fixed;
+    bottom: 0;
+    padding: 5px 0;
+    background: #BDBDBD;
+    max-width: 900px;
+    width: 100%;
+    text-align: center;
+}
